@@ -1,0 +1,52 @@
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:01:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:03:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '<br />
+<b>Notice</b>:  Undefined property: stdClass::$idVrste in <b>C:\xampp\htd' at line 1	12-02-20 22:03:40
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:00:57
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:03:41
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:04:47
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:05:36
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:05:37
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:05:37
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:05:38
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:06:30
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:08:34
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:10:03
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:10:33
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:11:10
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:11:33
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:14:48
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:15:10
+SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`sajtphp2s1`.`korpa`, CONSTRAINT `korpa_ibfk_2` FOREIGN KEY (`idkorisnik`) REFERENCES `korisnik` (`idKorisnik`))	14-02-20 18:16:02
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'apz.datumPostavljanja' in 'order clause'	14-02-20 19:34:23
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'apz.datumPostavljanja' in 'order clause'	14-02-20 19:34:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'apz.datumPostavljanja' in 'order clause'	14-02-20 19:34:26
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'apz.datumPostavljanja' in 'order clause'	14-02-20 19:34:27
